@@ -56,6 +56,7 @@ This repository documents my learning journey as part of a data analysis bootcam
 *Custom sales performance categorisation using SWITCH logic — classifying sales as High, Medium, or Low and linking to segmented summary.*
 
 This week built my foundation in Excel and helped me understand how structured functions and summarisation tools like pivot tables can reveal hidden trends quickly.
+
 ---
 
 ### 📘 Week 2 – Data Visualisation with Tableau
