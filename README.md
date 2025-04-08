@@ -109,20 +109,51 @@ This week helped me develop practical skills in both Tableau and Power BI. I use
 ---
 I gained confidence in relational database design and SQL querying. I used join operations to combine datasets, designed a retail database structure, and ran practical queries to retrieve, filter, and count key data values.
 
-### 📌 Week 5 – Cloud Tools & Architecture
+### 📘 Week 5 – Cloud Platforms, Azure Labs & Scenario Planning
 
-![Cloud Architecture](Assets/week5_cloud_architecture_diagram.png)  
-*Mapped modern data pipelines using Azure and visualised retail insights in Power BI.*
+#### ☁️ Azure Labs Overview
 
+![Azure Labs Combined](Assets/week5_azure_labs_combined.png)  
+*Completed guided labs on relational data, non-relational data, and analytics services in Azure. This included exploring data lake storage, SQL databases, and using Azure Synapse for querying.*
+
+---
+
+#### 🐾 Azure Recommendations – Paws & Whiskers Case Study
+
+![Azure Recommendations](Assets/week5_azure_recommendations.png)  
+*Proposed a cloud architecture solution using Azure Data Factory, Power BI, and Blob Storage to modernise a pet supply company's data pipeline.*
+
+---
+
+This week deepened my understanding of cloud platforms and data architecture. I explored how Azure handles relational and non-relational data, and applied that knowledge to design a real-world solution for a fictional business.
 I explored how data flows through cloud-based systems and gained a clearer view of where analysts and data engineers fit within that process.
 ---
 
-### 📌 Week 6 – Python & Visualisation
+### 📘 Week 6 – Python & Jupyter for Data Analysis
 
-![GDP Visualisation](Assets/week6_python_gdp_visualisation.png)  
-*Wrangled real-world data with Pandas and built charts using matplotlib.*
+#### 🧮 Data Cleaning & Exploration (Student Dataset)
 
-I discovered how to manipulate large datasets programmatically and use code to generate insights and plots — making Python a powerful tool in my analyst toolkit.
+![Student Data Cleaning](Assets/week6_student_data_cleaning.png)  
+*Loaded and explored student data using Pandas; cleaned missing values and reviewed summary statistics.*
+
+---
+
+#### 📊 Grouped Aggregation & Pivot Table
+
+![Pivot Table Aggregation](Assets/week6_pivot_aggregation.png)  
+*Created grouped views of student performance by class and gender using Pandas and pivot tables.*
+
+---
+
+#### 🌍 GDP per Capita Analysis
+
+![GDP Analysis](Assets/week6_gdp_analysis.png)  
+*Analysed GDP per capita across countries and UN regions, filtering and slicing data programmatically.*
+
+---
+ 
+In Week 6, I applied Python and the Pandas library to explore, clean, manipulate, and analyse datasets programmatically using Jupyter Notebook. I worked with both structured (student.csv) and real-world data (GDP per capita), performing grouping, aggregation, and pivoting. I also practised data visualisation using Matplotlib, Seaborn, and Plotly, enhancing my ability to present trends and patterns clearly and interactively.
+
 ---
 
 ## ✅ Skills Developed
