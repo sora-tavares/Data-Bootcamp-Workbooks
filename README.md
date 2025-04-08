@@ -80,7 +80,6 @@ This week built my foundation in Excel and helped me understand how structured f
 ![NHS Health Dashboard](Assets/week2_tableau_nhs_dashboard.png)  
 *Analysed life expectancy, obesity, and cancer rates across regions to support health service planning and trend analysis.*
 
----
 
 This week helped me develop practical skills in both Tableau and Power BI. I used Tableau to create interactive dashboards that communicated real-world insights from music and healthcare data, while the Power BI labs strengthened my understanding of data loading, transformation, and report design.
 
@@ -107,8 +106,14 @@ This week helped me develop practical skills in both Tableau and Power BI. I use
 ![SQL Query Outputs](Assets/week3_sql_practical_outputs.png)  
 *Ran filtering and aggregation queries using real-world datasets to count entries, apply conditions, and explore relationships between data tables.*
 
+
+In Week 3, I focused on relational database design and SQL querying. I practised using JOIN operations, filtering queries, and building table structures for a fictional retail business. These exercises improved my confidence in reading and writing SQL for structured data.
+
 ---
-I gained confidence in relational database design and SQL querying. I used join operations to combine datasets, designed a retail database structure, and ran practical queries to retrieve, filter, and count key data values.
+
+Week 4 – Career Development Week (non-technical – no workbook submitted)
+
+---
 
 ### 📘 Week 5 – Cloud Platforms, Azure Labs & Scenario Planning
 
@@ -124,7 +129,6 @@ I gained confidence in relational database design and SQL querying. I used join 
 ![Azure Recommendations](Assets/week5_azure_recommendations.png)  
 *Proposed a cloud architecture solution using Azure Data Factory, Power BI, and Blob Storage to modernise a pet supply company's data pipeline.*
 
----
 
 This week deepened my understanding of cloud platforms and data architecture. I explored how Azure handles relational and non-relational data, and applied that knowledge to design a real-world solution for a fictional business.
 I explored how data flows through cloud-based systems and gained a clearer view of where analysts and data engineers fit within that process.
@@ -152,7 +156,6 @@ I explored how data flows through cloud-based systems and gained a clearer view 
 ![GDP Analysis](Assets/week6_gdp_analysis.png)  
 *Analysed GDP per capita across countries and UN regions, filtering and slicing data programmatically.*
 
----
  
 In Week 6, I applied Python and the Pandas library to explore, clean, manipulate, and analyse datasets programmatically using Jupyter Notebook. I worked with both structured (student.csv) and real-world data (GDP per capita), performing grouping, aggregation, and pivoting. I also practised data visualisation using Matplotlib, Seaborn, and Plotly, enhancing my ability to present trends and patterns clearly and interactively.
 
