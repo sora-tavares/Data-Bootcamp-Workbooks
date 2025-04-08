@@ -128,6 +128,7 @@ I gained confidence in relational database design and SQL querying. I used join 
 
 This week deepened my understanding of cloud platforms and data architecture. I explored how Azure handles relational and non-relational data, and applied that knowledge to design a real-world solution for a fictional business.
 I explored how data flows through cloud-based systems and gained a clearer view of where analysts and data engineers fit within that process.
+
 ---
 
 ### 📘 Week 6 – Python & Jupyter for Data Analysis
